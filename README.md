@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+### Exemple video
+https://user-images.githubusercontent.com/71725222/177593013-c9d3f532-f5f5-4cc1-b877-17e96a528fcb.mp4
+
